@@ -1,0 +1,47 @@
+body{
+    background: rgba(196, 226, 88, 0.644);
+}
+.container{
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
+    background-color: rgba(18, 99, 88, 0.795);
+    border: 5px solid #96f4f7;
+    position: relative
+} 
+.door{
+    width: 150px;
+    height: 40px;
+    background-color: rgba(235, 154, 84, 0.897);
+    position: absolute;
+    top: 661px;
+    left: 250px;
+
+}
+.facea{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    /*border-radius: 100px;*/
+    background: #f0d870;
+    top: 300px;
+    left: 200px;
+}
+.zag{
+    display: none;
+    font-size: 50px;
+}
+.form{
+    margin-left: 900px;
+    margin-top: 50px;
+}
+
+#start{
+    width:175px;
+    height: 80px;
+    background-color: #67f3d08a;
+}
+.text{
+    transform:rotate(-24deg);
+    font-size: 24px;
+}
