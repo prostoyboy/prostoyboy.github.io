@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <link rel="stylesheet" href="app.css"/>
+   <title>ola</title>
+   <meta charset="utf-8">
+ </head>
+ <body>
+  <div class="translate_form">
+        
+    <textarea name="name_kz" rows="10" id="name_kz"></textarea>
+    <div class="button_key">
+        <div class="key kaz_to_lat" onclick="document.getElementById('name_translate').value = convert_to_lat(document.getElementById('name_kz').value);">С кириллицы на латиницу</div>
+        <div class="key lat_to_kaz" onclick="document.getElementById('name_translate').value = convert_to_kaz(document.getElementById('name_kz').value);">С латиницы на кириллицу</div>
+    </div>
+    
+    <textarea name="name_translate" rows="10" id="name_translate"></textarea>
+</div>
+    <script src="sexyboy.js"></script>
+ </body> 
+</html>

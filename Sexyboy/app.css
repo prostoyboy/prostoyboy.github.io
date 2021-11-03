@@ -1,0 +1,33 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #C2B6C0;
+}
+
+h1{
+    width: 100%;  
+}
+
+.button_key {
+    text-align:center;
+    margin-bottom:15px
+    
+}
+.button_key i {
+    margin-right: 
+    5px;color: yellow;
+}
+.button_key div {
+    border-radius:2px;
+    display:inline-block;
+    font-size:16px;color:#fff;
+    background:var(--z-lb);
+    padding:0.5rem 1rem;
+    text-transform:uppercase;
+    font-weight:bold;
+    margin:0px 1rem;
+    cursor:pointer;
+}
+.button_key div:hover {
+    background:#ae50d3;
+}
