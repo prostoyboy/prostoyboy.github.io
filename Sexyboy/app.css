@@ -5,7 +5,30 @@ body{
 }
 
 h1{
-    width: 100%;  
+    width: 100%;
+    text-align: center;
+    font-family:Calibri;  
+}
+textarea{
+    display: block;
+   /** margin-left: auto;
+    margin-right: auto;**/
+    border: 1px solid black;
+  /**margin: 0;
+  padding: 0;**/
+  vertical-align: bottom;
+  width: 250px;
+  height: 250px;
+}
+
+#name_kz{
+	margin-left: 410px;
+
+}
+
+#name_translate{
+	margin-left: 700px;
+	margin-top: -255px;
 }
 
 .button_key {
@@ -14,19 +37,20 @@ h1{
     
 }
 .button_key i {
-    margin-right: 
-    5px;color: yellow;
+    margin-right: 5px;
+    color: yellow;
 }
 .button_key div {
     border-radius:2px;
     display:inline-block;
     font-size:16px;color:#fff;
-    background:var(--z-lb);
+    background:var(--z-lb) ;
     padding:0.5rem 1rem;
     text-transform:uppercase;
     font-weight:bold;
     margin:0px 1rem;
     cursor:pointer;
+    background-color: #4e4e4e;
 }
 .button_key div:hover {
     background:#ae50d3;
