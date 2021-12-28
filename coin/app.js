@@ -1,5 +1,7 @@
-$(document).keyup(function(e) {
-	if (e.key === "Space" || e.keyCode === 32) {
-		alert('Нажата клавиша Space');
+document.addEventListener('keydown', function(event) {
+	$(`#${event.code}`).addClass("red")
+	function remove() {
+		$(`#${event.code}`).removeClass("red")
 	}
-});
+	setTimeout(remove, 2000)
+  });

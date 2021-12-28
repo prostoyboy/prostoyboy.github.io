@@ -12,7 +12,7 @@ ul{
   margin-right: auto;
 }
 
-#one{
+#Digit1{
   position: absolute;
   top: 8px;
   width: 50px;
@@ -22,7 +22,7 @@ ul{
   border-radius: 7px;
 }
 
-#two{
+#Digit2{
   position: absolute;
   top: 8px;
   margin-left: 60px;
@@ -33,7 +33,7 @@ ul{
   border-radius: 7px;
 }
 
-#three{
+#Digit3{
   position: absolute;
   top: 8px;
   margin-left: 120px;
@@ -44,7 +44,7 @@ ul{
   border-radius: 7px;
 }
 
-#four{
+#Digit4{
   position: absolute;
   top: 8px;
   margin-left: 180px;
@@ -55,7 +55,7 @@ ul{
   border-radius: 7px;
 }
 
-#five{
+#Digit5{
   position: absolute;
   top: 8px;
   margin-left: 240px;
@@ -66,7 +66,7 @@ ul{
   border-radius: 7px;
 }
 
-#six{
+#Digit6{
   position: absolute;
   top: 8px;
   margin-left: 300px;
@@ -77,7 +77,7 @@ ul{
   border-radius: 7px;
 }
 
-#seven{
+#Digit7{
   position: absolute;
   top: 8px;
   margin-left: 360px;
@@ -87,7 +87,7 @@ ul{
   border: 2px solid #000000;
   border-radius: 7px;
 }
-#eight{
+#Digit8{
   position: absolute;
   top: 8px;
   margin-left: 420px;
@@ -98,7 +98,7 @@ ul{
   border-radius: 7px;
 }
 
-#nine{
+#Digit9{
   position: absolute;
   top: 8px;
   margin-left: 480px;
@@ -109,7 +109,7 @@ ul{
   border-radius: 7px;
 }
 
-#zero{
+#Digit0{
   position: absolute;
   top: 8px;
   margin-left: 540px;
@@ -129,7 +129,7 @@ ul{
   background: #ffffffdc;
 }
 
-#q{
+#KeyQ{
   position: absolute;
   top: 67px;
   width: 50px;
@@ -139,7 +139,7 @@ ul{
   border-radius: 7px;
 }
 
-#w{
+#KeyW{
   position: absolute;
   top: 67px;
   margin-left: 60px;
@@ -150,7 +150,7 @@ ul{
   border-radius: 7px;
 }
 
-#e{
+#KeyE{
   position: absolute;
   top: 67px;
   margin-left: 120px;
@@ -161,7 +161,7 @@ ul{
   border-radius: 7px;
 }
 
-#r{
+#KeyR{
   position: absolute;
   top: 67px;
   margin-left: 180px;
@@ -172,7 +172,7 @@ ul{
   border-radius: 7px;
 }
 
-#t{
+#KeyT{
   position: absolute;
   top: 67px;
   margin-left: 240px;
@@ -183,7 +183,7 @@ ul{
   border-radius: 7px;
 }
 
-#y{
+#KeyY{
   position: absolute;
   top: 67px;
   margin-left: 300px;
@@ -194,7 +194,7 @@ ul{
   border-radius: 7px;
 }
 
-#u{
+#KeyU{
   position: absolute;
   top: 67px;
   margin-left: 360px;
@@ -204,7 +204,7 @@ ul{
   border: 2px solid #000000;
   border-radius: 7px;
 }
-#i{
+#KeyI{
   position: absolute;
   top: 67px;
   margin-left: 420px;
@@ -215,7 +215,7 @@ ul{
   border-radius: 7px;
 }
 
-#o{
+#KeyO{
   position: absolute;
   top: 67px;
   margin-left: 480px;
@@ -226,7 +226,7 @@ ul{
   border-radius: 7px;
 }
 
-#p{
+#KeyP{
   position: absolute;
   top: 67px;
   margin-left: 540px;
@@ -246,7 +246,18 @@ ul{
   background: #ffffffdc;
 }
 
-#a{
+#CapsLock{
+  position: absolute;
+  top: 126px;
+  margin-left: 0px;
+  width: 16px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyA{
   position: absolute;
   top: 126px;
   margin-left: 25px;
@@ -257,7 +268,7 @@ ul{
   border-radius: 7px;
 }
 
-#s{
+#KeyS{
   position: absolute;
   top: 126px;
   margin-left: 85px;
@@ -268,7 +279,7 @@ ul{
   border-radius: 7px;
 }
 
-#d{
+#KeyD{
   position: absolute;
   top: 126px;
   margin-left: 145px;
@@ -279,7 +290,7 @@ ul{
   border-radius: 7px;
 }
 
-#f{
+#KeyF{
   position: absolute;
   top: 126px;
   margin-left: 205px;
@@ -290,7 +301,7 @@ ul{
   border-radius: 7px;
 }
 
-#g{
+#KeyG{
   position: absolute;
   top: 126px;
   margin-left: 265px;
@@ -301,7 +312,7 @@ ul{
   border-radius: 7px;
 }
 
-#h{
+#KeyH{
   position: absolute;
   top: 126px;
   margin-left: 325px;
@@ -312,7 +323,7 @@ ul{
   border-radius: 7px;
 }
 
-#j{
+#KeyJ{
   position: absolute;
   top: 126px;
   margin-left: 385px;
@@ -322,7 +333,7 @@ ul{
   border: 2px solid #000000;
   border-radius: 7px;
 }
-#k{
+#KeyK{
   position: absolute;
   top: 126px;
   margin-left: 445px;
@@ -333,11 +344,22 @@ ul{
   border-radius: 7px;
 }
 
-#l{
+#KeyL{
   position: absolute;
   top: 126px;
   margin-left: 505px;
   width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Enter{
+  position: absolute;
+  top: 126px;
+  margin-left: 565px;
+  width: 25px;
   height: 50px;
   text-align: center;
   border: 2px solid #000000;
@@ -353,7 +375,18 @@ ul{
   background: #ffffff00;
 }
 
-#z{
+#ShiftLeft{
+  position: absolute;
+  top: 185px;
+  margin-left: 0px;
+  width: 75px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyZ{
   position: absolute;
   top: 185px;
   margin-left: 85px;
@@ -364,7 +397,7 @@ ul{
   border-radius: 7px;
 }
 
-#x{
+#KeyX{
   position: absolute;
   top: 185px;
   margin-left: 145px;
@@ -375,7 +408,7 @@ ul{
   border-radius: 7px;
 }
 
-#c{
+#KeyC{
   position: absolute;
   top: 185px;
   margin-left: 205px;
@@ -386,7 +419,7 @@ ul{
   border-radius: 7px;
 }
 
-#v{
+#KeyV{
   position: absolute;
   top: 185px;
   margin-left: 265px;
@@ -397,7 +430,7 @@ ul{
   border-radius: 7px;
 }
 
-#b{
+#KeyB{
   position: absolute;
   top: 185px;
   margin-left: 325px;
@@ -408,7 +441,7 @@ ul{
   border-radius: 7px;
 }
 
-#n{
+#KeyM{
   position: absolute;
   top: 185px;
   margin-left: 445px;
@@ -419,11 +452,22 @@ ul{
   border-radius: 7px;
 }
 
-#m{
+#KeyN{
   position: absolute;
   top: 185px;
   margin-left: 385px;
   width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#ShiftRight{
+  position: absolute;
+  top: 185px;
+  margin-left: 505px;
+  width: 85px;
   height: 50px;
   text-align: center;
   border: 2px solid #000000;
@@ -440,7 +484,7 @@ ul{
   background: #ffffffdc;
 }
 
-#space1{
+#Space{
   position: absolute;
   top: 244px;
   margin-left: 64px;
@@ -449,8 +493,35 @@ ul{
   text-align: center;
   border: 2px solid #000000;
   border-radius: 7px;
+  font-family: Georgia, Verdana, sans-serif;
+}
+
+#ControlLeft{
+  position: absolute;
+  top: 244px;
+  margin-left: 0px;
+  width: 55px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Backspace{
+  position: absolute;
+  top: 244px;
+  margin-left: 530px;
+  width: 60px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
 }
 
 li{
   list-style: none;
+}
+
+.red {
+  background-color: #91faf1;
 }
