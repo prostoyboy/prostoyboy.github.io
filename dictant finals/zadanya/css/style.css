@@ -16,7 +16,7 @@ body{
   
   height: 80px;
   width: 80px;
-  background: url("C:/Users/нр/Downloads/circle.svg");
+  background: url("https://ikonki.svgpng.ru/wp-content/uploads/2020/06/circle-128x128.png");
   background-size: cover;
   position: absolute;
   left: 27px;
@@ -54,8 +54,8 @@ body{
   }
 
   #n1{
-    left:410px;
-    top:170px;
+    left:417px;
+    top:173px;
     animation-name: crcA1;
     animation-duration: 3s;
     /*animation-iteration-count: infinite;
@@ -72,7 +72,7 @@ body{
     }
     
   #n3{
-    left:485px;
+    left:493px;
     top:177px;
     animation-name: crcA1;
     animation-duration: 3s;
