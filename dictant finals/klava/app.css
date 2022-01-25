@@ -1,0 +1,527 @@
+#num{
+  width: 50%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ffffff;
+  background: #fffffff3;
+}
+
+ul{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Digit1{
+  position: absolute;
+  top: 8px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Digit2{
+  position: absolute;
+  top: 8px;
+  margin-left: 60px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Digit3{
+  position: absolute;
+  top: 8px;
+  margin-left: 120px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Digit4{
+  position: absolute;
+  top: 8px;
+  margin-left: 180px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Digit5{
+  position: absolute;
+  top: 8px;
+  margin-left: 240px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Digit6{
+  position: absolute;
+  top: 8px;
+  margin-left: 300px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Digit7{
+  position: absolute;
+  top: 8px;
+  margin-left: 360px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+#Digit8{
+  position: absolute;
+  top: 8px;
+  margin-left: 420px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Digit9{
+  position: absolute;
+  top: 8px;
+  margin-left: 480px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Digit0{
+  position: absolute;
+  top: 8px;
+  margin-left: 540px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#qwer{
+  width: 50%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ffffff;
+  background: #ffffffdc;
+}
+
+#KeyQ{
+  position: absolute;
+  top: 67px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyW{
+  position: absolute;
+  top: 67px;
+  margin-left: 60px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyE{
+  position: absolute;
+  top: 67px;
+  margin-left: 120px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyR{
+  position: absolute;
+  top: 67px;
+  margin-left: 180px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyT{
+  position: absolute;
+  top: 67px;
+  margin-left: 240px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyY{
+  position: absolute;
+  top: 67px;
+  margin-left: 300px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyU{
+  position: absolute;
+  top: 67px;
+  margin-left: 360px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+#KeyI{
+  position: absolute;
+  top: 67px;
+  margin-left: 420px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyO{
+  position: absolute;
+  top: 67px;
+  margin-left: 480px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyP{
+  position: absolute;
+  top: 67px;
+  margin-left: 540px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#asdf{
+  width: 50%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ffffff;
+  background: #ffffffdc;
+}
+
+#CapsLock{
+  position: absolute;
+  top: 126px;
+  margin-left: 0px;
+  width: 16px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyA{
+  position: absolute;
+  top: 126px;
+  margin-left: 25px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyS{
+  position: absolute;
+  top: 126px;
+  margin-left: 85px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyD{
+  position: absolute;
+  top: 126px;
+  margin-left: 145px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyF{
+  position: absolute;
+  top: 126px;
+  margin-left: 205px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyG{
+  position: absolute;
+  top: 126px;
+  margin-left: 265px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyH{
+  position: absolute;
+  top: 126px;
+  margin-left: 325px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyJ{
+  position: absolute;
+  top: 126px;
+  margin-left: 385px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+#KeyK{
+  position: absolute;
+  top: 126px;
+  margin-left: 445px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyL{
+  position: absolute;
+  top: 126px;
+  margin-left: 505px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Enter{
+  position: absolute;
+  top: 126px;
+  margin-left: 565px;
+  width: 25px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#zxcv{
+  width: 50%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto; 
+  border: 2px solid #ffffff;
+  background: #ffffff00;
+}
+
+#ShiftLeft{
+  position: absolute;
+  top: 185px;
+  margin-left: 0px;
+  width: 75px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyZ{
+  position: absolute;
+  top: 185px;
+  margin-left: 85px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyX{
+  position: absolute;
+  top: 185px;
+  margin-left: 145px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyC{
+  position: absolute;
+  top: 185px;
+  margin-left: 205px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyV{
+  position: absolute;
+  top: 185px;
+  margin-left: 265px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyB{
+  position: absolute;
+  top: 185px;
+  margin-left: 325px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyM{
+  position: absolute;
+  top: 185px;
+  margin-left: 445px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#KeyN{
+  position: absolute;
+  top: 185px;
+  margin-left: 385px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#ShiftRight{
+  position: absolute;
+  top: 185px;
+  margin-left: 505px;
+  width: 85px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+
+#space{
+  width: 50%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ffffff;
+  background: #ffffffdc;
+}
+
+#Space{
+  position: absolute;
+  top: 244px;
+  margin-left: 64px;
+  width: 455px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+  font-family: Georgia, Verdana, sans-serif;
+}
+
+#ControlLeft{
+  position: absolute;
+  top: 244px;
+  margin-left: 0px;
+  width: 55px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+#Backspace{
+  position: absolute;
+  top: 244px;
+  margin-left: 530px;
+  width: 60px;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #000000;
+  border-radius: 7px;
+}
+
+li{
+  list-style: none;
+}
+
+.red {
+  background-color: #91faf1;
+}
